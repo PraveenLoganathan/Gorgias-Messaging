@@ -3,13 +3,13 @@
 This repository contains a simple Python script that can be toggled to send an email to a customer or to create an internal-note within the customer's ticket.
 
 ### Example Ticket
-![Example Ticket](example_ticket.jpeg)
+![Example Ticket](example_ticket.jpg)
 
 ### Example Email
-![Example Email](example_email.jpeg)
+![Example Email](example_email.jpg)
 
 ### Example Internal Note
-![Example Internal Note](example_internal_note.jpeg)
+![Example Internal Note](example_internal_note.jpg)
 
 ## Quick Start
 
